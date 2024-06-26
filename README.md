@@ -5,10 +5,9 @@
 This project is a React Native application that implements navigation and theming features using React Navigation and Context API.
 
 ## Features
-
-    Navigation: Implemented navigation between Home and Settings screens.
-    Dark Mode: Toggle between light and dark themes using a switch in the Settings screen.
-    Responsive Design: Designed with responsive UI components for various screen sizes.
+Navigation: Implemented navigation between Home and Settings screens.
+Dark Mode: Toggle between light and dark themes using a switch in the Settings screen.
+Responsive Design: Designed with responsive UI components for various screen sizes.
 
 ##  Technologies Used
 
