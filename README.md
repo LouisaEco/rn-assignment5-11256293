@@ -1,22 +1,23 @@
 # rn-assignment5-11256293
 
-React Native App
+## React Native App
 
 This project is a React Native application that implements navigation and theming features using React Navigation and Context API.
-Features
+
+## Features
 
     Navigation: Implemented navigation between Home and Settings screens.
     Dark Mode: Toggle between light and dark themes using a switch in the Settings screen.
     Responsive Design: Designed with responsive UI components for various screen sizes.
 
-    Technologies Used
+##  Technologies Used
 
     React Native
     React Navigation
     Context API
     Animated API for smooth transitions
 
-    Usage
+ ##   Usage
 
     Home Screen: Displays user profile, transaction icons, and recent transactions.
     Settings Screen: Allows toggling between light and dark modes, and other settings.
