@@ -26,3 +26,6 @@ Settings Screen: Allows toggling between light and dark modes, and other setting
 ![4](https://github.com/LouisaEco/rn-assignment5-11256293/assets/147488916/46495a9a-71d1-45f7-8f6e-5a432efc3d10)
 ![5](https://github.com/LouisaEco/rn-assignment5-11256293/assets/147488916/1115226a-3ded-43d7-bca4-6153f725dcc1)
 ![6](https://github.com/LouisaEco/rn-assignment5-11256293/assets/147488916/1691c97d-5215-411c-b480-1068bc3f36ed)
+
+## Author
+Kornu Louisa X. E.
