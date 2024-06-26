@@ -19,7 +19,7 @@ Animated API for smooth transitions
 Home Screen: Displays user profile, transaction icons, and recent transactions.
 Settings Screen: Allows toggling between light and dark modes, and other settings.
   
-##Screenshots
+## Screenshots
 ![1](https://github.com/LouisaEco/rn-assignment5-11256293/assets/147488916/77cb5d11-14b7-431b-b3a4-dbd63ad3fa3a)
 ![2](https://github.com/LouisaEco/rn-assignment5-11256293/assets/147488916/bd78647a-15fc-49cb-b188-aad31061e182)
 ![3](https://github.com/LouisaEco/rn-assignment5-11256293/assets/147488916/2a4d021b-6fa8-4788-a24b-1fd51609ef82)
