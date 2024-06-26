@@ -10,11 +10,12 @@ Dark Mode: Toggle between light and dark themes using a switch in the Settings s
 Responsive Design: Designed with responsive UI components for various screen sizes.
 
 ##  Technologies Used
+React Native
+React Navigation
+Context API
+Animated API for smooth transitions
 
-    React Native
-    React Navigation
-    Context API
-    Animated API for smooth transitions
+
 
  ##   Usage
 
